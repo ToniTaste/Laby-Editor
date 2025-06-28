@@ -17,7 +17,7 @@ Der Editor für Laby. Hier kannst Du eigene Labyrinthe für Laby entwickeln.
 
 > Wird unterstützt durch **GitHub Pages**.
 
-👉 [Hier klicken, um das Projekt direkt im Browser zu starten](https://TinoTaste.github.io/Laby-Editor/)
+👉 [Hier klicken, um das Projekt direkt im Browser zu starten](https://tonitaste.github.io/Laby-Editor/)
 
 ## 📦 Installation (lokal)
 
