@@ -1,4 +1,4 @@
-# ✏️ Blockly-Labyrinth-Editor
+# 🧱 Blockly-Labyrinth-Editor
 
 Der Editor für Laby. Hier kannst Du eigene Labyrinthe für [Laby](https://github.com/ToniTaste/Laby) entwickeln. 
 
